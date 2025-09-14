@@ -1,5 +1,5 @@
 # Windows-Privilege-Escalation
-Windows Privilege Escalation Lab -  using tools like winPEAS, AccessChk, PrivescCheck, and secretsdump.py; with exploitation via schtasks, icacls, sc, reg save, and runas.
+Windows Privilege Escalation -  using tools like winPEAS, AccessChk, PrivescCheck, and secretsdump.py; with exploitation via schtasks, icacls, sc, reg save, and runas.
 
 By Ramyar Daneshgar 
 
